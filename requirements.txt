@@ -16,3 +16,4 @@ itsdangerous
 langchain
 langchain-community
 nltk
+seaborn
