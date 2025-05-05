@@ -166,8 +166,24 @@ All recommendations are fully aligned with **SHL’s official public catalog**.
 
 ---
 
+## API Endpoints 
+The system provides a REST API for integration with other applications:
+
+**Base URL**: https://shl-assessment-recommendation-system-561x.onrender.com
+
+**Endpoints**:
+  - `GET /health` - Check API status
+  - `POST /recommend` - Get assessment recommendations
+  - `/docs` - Use Swagger docs (auto-generated FastAPI UI)
+
+## DEMO LINK:
+
+Here: https://bhjrsqk9qhpw85zk5ysuhu.streamlit.app/
+
 ##  Final Remarks
 
 Special effort has been taken to mirror SHL’s catalog, user journey, and expected output format, ensuring real-world relevance.
 
 I hope this solution showcases both my technical skills and my commitment to building solutions that matter.
+
+
