@@ -1,0 +1,335 @@
+[
+    {
+        "title": "Automata - Fix (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "35 minutes",
+        "test_type": "Technical",
+        "description": "Advanced code debugging assessment for experienced developers."
+    },
+    {
+        "title": "Core Java (Entry Level) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "40 minutes",
+        "test_type": "Technical",
+        "description": "Assessment to test entry-level Java programming skills."
+    },
+    {
+        "title": "Java 8 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "45 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for Java 8 programming language skills."
+    },
+    {
+        "title": "Entry level Sales 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "50 minutes",
+        "test_type": "Behavioral",
+        "description": "Assessment for entry-level sales positions."
+    },
+    {
+        "title": "Motivation Questionnaire MQM5",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "25 minutes",
+        "test_type": "Personality",
+        "description": "Assesses what motivates and drives an individual at work."
+    },
+    {
+        "title": "Search Engine Optimization (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for SEO knowledge and best practices."
+    },
+    {
+        "title": "Automata Selenium",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "60 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for Selenium automation testing skills."
+    },
+    {
+        "title": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Skills",
+        "description": "Assessment for administrative professional skills."
+    },
+    {
+        "title": "Verify - Verbal Ability - Next Generation",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "Yes",
+        "duration": "20 minutes",
+        "test_type": "Cognitive",
+        "description": "Measures verbal reasoning skills."
+    },
+    {
+        "title": "Occupational Personality Questionnaire OPQ32r",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "40 minutes",
+        "test_type": "Personality",
+        "description": "Comprehensive personality assessment for workplace behaviors."
+    },
+    {
+        "title": "Core Java (Advanced Level) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "50 minutes",
+        "test_type": "Technical",
+        "description": "Advanced Java programming skills assessment."
+    },
+    {
+        "title": "Agile Software Development",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for agile software development methodologies."
+    },
+    {
+        "title": "Technology Professional 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "Yes",
+        "duration": "45 minutes",
+        "test_type": "Technical",
+        "description": "Comprehensive assessment for technology professionals."
+    },
+    {
+        "title": "Computer Science (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "40 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for computer science fundamentals."
+    },
+    {
+        "title": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Behavioral",
+        "description": "Screening assessment for entry-level sales positions."
+    },
+    {
+        "title": "Entry Level Sales Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "55 minutes",
+        "test_type": "Behavioral",
+        "description": "Comprehensive solution for entry-level sales candidates."
+    },
+    {
+        "title": "Sales Representative Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "60 minutes",
+        "test_type": "Behavioral",
+        "description": "Comprehensive solution for sales representative candidates."
+    },
+    {
+        "title": "Sales Support Specialist Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "45 minutes",
+        "test_type": "Behavioral",
+        "description": "Assessment for sales support specialist positions."
+    },
+    {
+        "title": "Technical Sales Associate Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "60 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for technical sales positions."
+    },
+    {
+        "title": "Global Skills Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "Yes",
+        "duration": "60 minutes",
+        "test_type": "Cognitive",
+        "description": "Assessment for global skills and cultural fit."
+    },
+    {
+        "title": "Graduate 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "45 minutes",
+        "test_type": "Cognitive",
+        "description": "Comprehensive assessment for graduate positions."
+    },
+    {
+        "title": "Drupal (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "35 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for Drupal CMS skills."
+    },
+    {
+        "title": "General Entry Level \u2013 Data Entry 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Skills",
+        "description": "Assessment for data entry skills."
+    },
+    {
+        "title": "Basic Computer Literacy (Windows 10) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "25 minutes",
+        "test_type": "Skills",
+        "description": "Assessment for basic computer literacy skills."
+    },
+    {
+        "title": "Automata Front End",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "60 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for front-end development skills."
+    },
+    {
+        "title": "JavaScript (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "40 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for JavaScript programming skills."
+    },
+    {
+        "title": "HTML/CSS (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "35 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for HTML and CSS skills."
+    },
+    {
+        "title": "HTML5 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for HTML5 skills."
+    },
+    {
+        "title": "CSS3 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for CSS3 skills."
+    },
+    {
+        "title": "Selenium (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "45 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for Selenium automation testing skills."
+    },
+    {
+        "title": "SQL Server (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "40 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for SQL Server database skills."
+    },
+    {
+        "title": "Automata - SQL (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "60 minutes",
+        "test_type": "Technical",
+        "description": "Hands-on SQL coding assessment."
+    },
+    {
+        "title": "Manual Testing (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "45 minutes",
+        "test_type": "Technical",
+        "description": "Assessment for manual testing skills."
+    },
+    {
+        "title": "Verify - Numerical Ability",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "Yes",
+        "duration": "25 minutes",
+        "test_type": "Cognitive",
+        "description": "Assessment for numerical reasoning skills."
+    },
+    {
+        "title": "Financial Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "30 minutes",
+        "test_type": "Skills",
+        "description": "Assessment for financial professional skills."
+    },
+    {
+        "title": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "No",
+        "duration": "35 minutes",
+        "test_type": "Skills",
+        "description": "Assessment for bank administrative assistant skills."
+    },
+    {
+        "title": "SHL Verify Interactive - Inductive Reasoning",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+        "remote_testing_support": "Yes",
+        "adaptive_irt_support": "Yes",
+        "duration": "25 minutes",
+        "test_type": "Cognitive",
+        "description": "Interactive assessment for inductive reasoning skills."
+    }
+]

@@ -1,0 +1,777 @@
+{
+    "overall": {
+        "mean_precision@3": 0.7777777777777777,
+        "mean_precision@5": 0.6333333333333333,
+        "mean_precision@10": 0.4166666666666667,
+        "mean_recall@3": 0.3795093795093795,
+        "map@3": 0.7314814814814815,
+        "mean_recall@5": 0.4977633477633477,
+        "map@5": 0.6233333333333334,
+        "mean_recall@10": 0.6256854256854257,
+        "map@10": 0.5308560090702947
+    },
+    "per_query": {
+        "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.": {
+            "query": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+            "recommendations": [
+                {
+                    "title": "Java 8 (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 0.7770414352416992
+                },
+                {
+                    "title": "Core Java (Entry Level) (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 0.8542553186416626
+                },
+                {
+                    "title": "Core Java (Advanced Level) (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "50 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 0.8577021360397339
+                },
+                {
+                    "title": "Graduate 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 0.9190662503242493
+                },
+                {
+                    "title": "Technology Professional 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 0.9554457068443298
+                },
+                {
+                    "title": "JavaScript (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 0.9770521521568298
+                },
+                {
+                    "title": "Computer Science (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.021843433380127
+                },
+                {
+                    "title": "Drupal (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.0304501056671143
+                },
+                {
+                    "title": "Technical Sales Associate Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.0359443426132202
+                },
+                {
+                    "title": "Agile Software Development",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.0611521005630493
+                }
+            ],
+            "recommended_titles": [
+                "Java 8 (New) | SHL",
+                "Core Java (Entry Level) (New) | SHL",
+                "Core Java (Advanced Level) (New) | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL",
+                "Technology Professional 8.0 Job Focused Assessment | SHL",
+                "JavaScript (New) | SHL",
+                "Computer Science (New) | SHL",
+                "Drupal (New) | SHL",
+                "Technical Sales Associate Solution | SHL",
+                "Agile Software Development | SHL"
+            ],
+            "relevant_items": [
+                "Automata - Fix (New) | SHL",
+                "Core Java (Entry Level) (New) | SHL",
+                "Java 8 (New) | SHL",
+                "Core Java (Advanced Level) (New) | SHL",
+                "Agile Software Development | SHL",
+                "Technology Professional 8.0 Job Focused Assessment | SHL",
+                "Computer Science (New) | SHL"
+            ],
+            "metrics": {
+                "precision@3": 1.0,
+                "recall@3": 0.42857142857142855,
+                "ap@3": 1.0,
+                "precision@5": 0.8,
+                "recall@5": 0.5714285714285714,
+                "ap@5": 0.76,
+                "precision@10": 0.6,
+                "recall@10": 0.8571428571428571,
+                "ap@10": 0.7306122448979592
+            }
+        },
+        "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options": {
+            "query": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+            "recommendations": [
+                {
+                    "title": "Entry Level Sales Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "55 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.0816795825958252
+                },
+                {
+                    "title": "Sales Representative Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.1295723915100098
+                },
+                {
+                    "title": "Technical Sales Associate Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.1598241329193115
+                },
+                {
+                    "title": "Sales Support Specialist Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.2348644733428955
+                },
+                {
+                    "title": "Entry level Sales 7.1 (International)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "50 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.2582573890686035
+                },
+                {
+                    "title": "Graduate 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.2675235271453857
+                },
+                {
+                    "title": "Financial Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.3401352167129517
+                },
+                {
+                    "title": "Entry Level Sales Sift Out 7.1",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.390916347503662
+                },
+                {
+                    "title": "Drupal (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.3976242542266846
+                },
+                {
+                    "title": "SQL Server (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4080644845962524
+                }
+            ],
+            "recommended_titles": [
+                "Entry Level Sales Solution | SHL",
+                "Sales Representative Solution | SHL",
+                "Technical Sales Associate Solution | SHL",
+                "Sales Support Specialist Solution | SHL",
+                "Entry level Sales 7.1 (International) | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL",
+                "Financial Professional - Short Form | SHL",
+                "Entry Level Sales Sift Out 7.1 | SHL",
+                "Drupal (New) | SHL",
+                "SQL Server (New) | SHL"
+            ],
+            "relevant_items": [
+                "Entry level Sales 7.1 (International) | SHL",
+                "Entry Level Sales Sift Out 7.1 | SHL",
+                "Entry Level Sales Solution | SHL",
+                "Sales Representative Solution | SHL",
+                "Sales Support Specialist Solution | SHL",
+                "Technical Sales Associate Solution | SHL",
+                "SVAR - Spoken English (Indian Accent) (New) | SHL",
+                "Sales & Service Phone Solution | SHL",
+                "Sales & Service Phone Simulation | SHL",
+                "English Comprehension (New) | SHL"
+            ],
+            "metrics": {
+                "precision@3": 1.0,
+                "recall@3": 0.3,
+                "ap@3": 1.0,
+                "precision@5": 1.0,
+                "recall@5": 0.5,
+                "ap@5": 1.0,
+                "precision@10": 0.6,
+                "recall@10": 0.6,
+                "ap@10": 0.575
+            }
+        },
+        "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour": {
+            "query": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+            "recommendations": [
+                {
+                    "title": "Global Skills Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "60 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.1502023935317993
+                },
+                {
+                    "title": "Graduate 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.4049640893936157
+                },
+                {
+                    "title": "Entry level Sales 7.1 (International)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "50 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.4309892654418945
+                },
+                {
+                    "title": "Drupal (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4480301141738892
+                },
+                {
+                    "title": "Technology Professional 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.452916145324707
+                },
+                {
+                    "title": "Administrative Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.487652063369751
+                },
+                {
+                    "title": "Manual Testing (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4903181791305542
+                },
+                {
+                    "title": "Bank Administrative Assistant - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.4970966577529907
+                },
+                {
+                    "title": "CSS3 (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.499281406402588
+                },
+                {
+                    "title": "Automata Front End",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.508204698562622
+                }
+            ],
+            "recommended_titles": [
+                "Global Skills Assessment | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL",
+                "Entry level Sales 7.1 (International) | SHL",
+                "Drupal (New) | SHL",
+                "Technology Professional 8.0 Job Focused Assessment | SHL",
+                "Administrative Professional - Short Form | SHL",
+                "Manual Testing (New) | SHL",
+                "Bank Administrative Assistant - Short Form | SHL",
+                "CSS3 (New) | SHL",
+                "Automata Front End | SHL"
+            ],
+            "relevant_items": [
+                "Motivation Questionnaire MQM5 | SHL",
+                "Global Skills Assessment | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL"
+            ],
+            "metrics": {
+                "precision@3": 0.6666666666666666,
+                "recall@3": 0.6666666666666666,
+                "ap@3": 0.6666666666666666,
+                "precision@5": 0.4,
+                "recall@5": 0.6666666666666666,
+                "ap@5": 0.6666666666666666,
+                "precision@10": 0.2,
+                "recall@10": 0.6666666666666666,
+                "ap@10": 0.6666666666666666
+            }
+        },
+        "Content Writer required, expert in English and SEO.": {
+            "query": "Content Writer required, expert in English and SEO.",
+            "recommendations": [
+                {
+                    "title": "Search Engine Optimization (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.1996266841888428
+                },
+                {
+                    "title": "Technology Professional 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4246909618377686
+                },
+                {
+                    "title": "HTML/CSS (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4457368850708008
+                },
+                {
+                    "title": "HTML5 (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4640623331069946
+                },
+                {
+                    "title": "Drupal (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.4995343685150146
+                },
+                {
+                    "title": "Financial Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.5273813009262085
+                },
+                {
+                    "title": "JavaScript (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.5368340015411377
+                },
+                {
+                    "title": "Global Skills Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "60 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.555310606956482
+                },
+                {
+                    "title": "Administrative Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.5604984760284424
+                },
+                {
+                    "title": "Core Java (Advanced Level) (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "50 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.5649058818817139
+                }
+            ],
+            "recommended_titles": [
+                "Search Engine Optimization (New) | SHL",
+                "Technology Professional 8.0 Job Focused Assessment | SHL",
+                "HTML/CSS (New) | SHL",
+                "HTML5 (New) | SHL",
+                "Drupal (New) | SHL",
+                "Financial Professional - Short Form | SHL",
+                "JavaScript (New) | SHL",
+                "Global Skills Assessment | SHL",
+                "Administrative Professional - Short Form | SHL",
+                "Core Java (Advanced Level) (New) | SHL"
+            ],
+            "relevant_items": [
+                "Drupal (New) | SHL",
+                "Search Engine Optimization (New) | SHL",
+                "Administrative Professional - Short Form | SHL",
+                "Entry Level Sales Sift Out 7.1 | SHL",
+                "General Entry Level \u2013 Data Entry 7.0 Solution | SHL"
+            ],
+            "metrics": {
+                "precision@3": 0.3333333333333333,
+                "recall@3": 0.2,
+                "ap@3": 0.3333333333333333,
+                "precision@5": 0.4,
+                "recall@5": 0.4,
+                "ap@5": 0.27999999999999997,
+                "precision@10": 0.3,
+                "recall@10": 0.6,
+                "ap@10": 0.3466666666666666
+            }
+        },
+        "Find me 1 hour long assesment for the below job at SHL\nJob Description\nJoin a community that is shaping the future of work! SHL, People Science. People Answers.\nAre you a seasoned QA Engineer with a flair for innovation?...": {
+            "query": "Find me 1 hour long assesment for the below job at SHL\nJob Description\nJoin a community that is shaping the future of work! SHL, People Science. People Answers.\nAre you a seasoned QA Engineer with a flair for innovation?...",
+            "recommendations": [
+                {
+                    "title": "Technology Professional 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.1622048616409302
+                },
+                {
+                    "title": "Automata Front End",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.2467854022979736
+                },
+                {
+                    "title": "Automata Selenium",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.2747471332550049
+                },
+                {
+                    "title": "Technical Sales Associate Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.277452826499939
+                },
+                {
+                    "title": "Motivation Questionnaire MQM5",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "25 minutes",
+                    "test_type": "Personality",
+                    "similarity_score": 1.3133604526519775
+                },
+                {
+                    "title": "Drupal (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.3301353454589844
+                },
+                {
+                    "title": "Selenium (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.3464040756225586
+                },
+                {
+                    "title": "Graduate 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.370879888534546
+                },
+                {
+                    "title": "Financial Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.3776147365570068
+                },
+                {
+                    "title": "Automata - SQL (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.386706829071045
+                }
+            ],
+            "recommended_titles": [
+                "Technology Professional 8.0 Job Focused Assessment | SHL",
+                "Automata Front End | SHL",
+                "Automata Selenium | SHL",
+                "Technical Sales Associate Solution | SHL",
+                "Motivation Questionnaire MQM5 | SHL",
+                "Drupal (New) | SHL",
+                "Selenium (New) | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL",
+                "Financial Professional - Short Form | SHL",
+                "Automata - SQL (New) | SHL"
+            ],
+            "relevant_items": [
+                "Automata Selenium | SHL",
+                "Automata - Fix (New) | SHL",
+                "Automata Front End | SHL",
+                "JavaScript (New) | SHL",
+                "HTML/CSS (New) | SHL",
+                "HTML5 (New) | SHL",
+                "CSS3 (New) | SHL",
+                "Selenium (New) | SHL",
+                "SQL Server (New) | SHL",
+                "Automata - SQL (New) | SHL",
+                "Manual Testing (New) | SHL"
+            ],
+            "metrics": {
+                "precision@3": 0.6666666666666666,
+                "recall@3": 0.18181818181818182,
+                "ap@3": 0.38888888888888884,
+                "precision@5": 0.4,
+                "recall@5": 0.18181818181818182,
+                "ap@5": 0.2333333333333333,
+                "precision@10": 0.4,
+                "recall@10": 0.36363636363636365,
+                "ap@10": 0.19952380952380952
+            }
+        },
+        "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long": {
+            "query": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+            "recommendations": [
+                {
+                    "title": "Bank Administrative Assistant - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "35 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 0.732842743396759
+                },
+                {
+                    "title": "Financial Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 0.975557804107666
+                },
+                {
+                    "title": "Administrative Professional - Short Form",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.1471974849700928
+                },
+                {
+                    "title": "General Entry Level \u2013 Data Entry 7.0 Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "30 minutes",
+                    "test_type": "Skills",
+                    "similarity_score": 1.2359179258346558
+                },
+                {
+                    "title": "Graduate 8.0 Job Focused Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.293696403503418
+                },
+                {
+                    "title": "Manual Testing (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "45 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.293921947479248
+                },
+                {
+                    "title": "Entry level Sales 7.1 (International)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "50 minutes",
+                    "test_type": "Behavioral",
+                    "similarity_score": 1.297303318977356
+                },
+                {
+                    "title": "Global Skills Assessment",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "Yes",
+                    "duration": "60 minutes",
+                    "test_type": "Cognitive",
+                    "similarity_score": 1.3238064050674438
+                },
+                {
+                    "title": "SQL Server (New)",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "40 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.3244171142578125
+                },
+                {
+                    "title": "Technical Sales Associate Solution",
+                    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+                    "remote_testing_support": "Yes",
+                    "adaptive_irt_support": "No",
+                    "duration": "60 minutes",
+                    "test_type": "Technical",
+                    "similarity_score": 1.331660270690918
+                }
+            ],
+            "recommended_titles": [
+                "Bank Administrative Assistant - Short Form | SHL",
+                "Financial Professional - Short Form | SHL",
+                "Administrative Professional - Short Form | SHL",
+                "General Entry Level \u2013 Data Entry 7.0 Solution | SHL",
+                "Graduate 8.0 Job Focused Assessment | SHL",
+                "Manual Testing (New) | SHL",
+                "Entry level Sales 7.1 (International) | SHL",
+                "Global Skills Assessment | SHL",
+                "SQL Server (New) | SHL",
+                "Technical Sales Associate Solution | SHL"
+            ],
+            "relevant_items": [
+                "Administrative Professional - Short Form | SHL",
+                "Verify - Numerical Ability | SHL",
+                "Financial Professional - Short Form | SHL",
+                "Bank Administrative Assistant - Short Form | SHL",
+                "General Entry Level \u2013 Data Entry 7.0 Solution | SHL",
+                "Basic Computer Literacy (Windows 10) (New) | SHL"
+            ],
+            "metrics": {
+                "precision@3": 1.0,
+                "recall@3": 0.5,
+                "ap@3": 1.0,
+                "precision@5": 0.8,
+                "recall@5": 0.6666666666666666,
+                "ap@5": 0.8,
+                "precision@10": 0.4,
+                "recall@10": 0.6666666666666666,
+                "ap@10": 0.6666666666666666
+            }
+        }
+    }
+}
