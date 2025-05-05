@@ -103,6 +103,16 @@ https://www.shl.com/en/assessments/solutions/
 
 I only use verified SHL links to maintain recommendation accuracy.
 
+## API Endpoints 
+The system provides a REST API for integration with other applications:
+
+**Base URL**: https://shl-assessment-recommendation-system-561x.onrender.com
+
+**Endpoints**:
+  - `GET /health` - Check API status
+  - `POST /recommend` - Get assessment recommendations
+  - `/docs` - Use Swagger docs (auto-generated FastAPI UI)
+
 ## Credit 
 Author: Bishal Roy 
 
