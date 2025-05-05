@@ -113,6 +113,10 @@ The system provides a REST API for integration with other applications:
   - `POST /recommend` - Get assessment recommendations
   - `/docs` - Use Swagger docs (auto-generated FastAPI UI)
 
+## DEMO LINK:
+
+Here: https://bhjrsqk9qhpw85zk5ysuhu.streamlit.app/
+
 ## Credit 
 Author: Bishal Roy 
 
