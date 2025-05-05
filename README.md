@@ -94,15 +94,18 @@ streamlit run app.py
 ## Evaluation Metrics
 - MAP@3: Measures ranking precision
 - Recall@3: Measures how many correct assessments were captured in top 3
+  
 These are printed out for each test query and averaged across the dataset
 
 ##  SHL Catalog Data
 All scraped URLs and assessment descriptions are from:
 https://www.shl.com/en/assessments/solutions/
+
 I only use verified SHL links to maintain recommendation accuracy.
 
 ## Credit 
 Author: Bishal Roy 
+
 Email: roybishal9989@gmail.com
 
 
