@@ -561,11 +561,12 @@ with tab3:
     st.markdown("""
     The system provides a REST API for integration with other applications:
     
-    **Base URL**: `https://your-deployment-url.com/api/v1`
+    **Base URL**: `https://shl-assessment-recommendation-system-561x.onrender.com`
     
     **Endpoints**:
     - `GET /health` - Check API status
     - `POST /recommend` - Get assessment recommendations
+    - `/docs` - Use Swagger docs (auto-generated FastAPI UI)
     
     **Example Request**:
     ```json
